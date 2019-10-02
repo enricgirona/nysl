@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
   margin: 0;
   height: 100vh;
-  background-image: url("/img/background.jpg");
+  background-image: url("../img/background.jpg");
   background-position: bottom;
   background-size: 100%;
 }
@@ -150,18 +150,18 @@ p {
 
 .image-about {
   flex-grow: 1;
-  background-image: url("/img/mixed-team.jpg");
+  background-image: url("../img/mixed-team.jpg");
 }
 
 .image-about2 {
   flex-grow: 1;
-  background-image: url("/img/image1.jpg");
+  background-image: url("../img/image1.jpg");
   background-size: cover;
 }
 
 .image-about3 {
   flex-grow: 1;
-  background-image: url("/img/girl-team.jpg");
+  background-image: url("../img/girl-team.jpg");
   background-size: cover;
 }
 
@@ -215,19 +215,19 @@ li>p {
 }
 
 .box-picture1 {
-  background-image: url("/img/mixed-team.jpg");
+  background-image: url("../img/mixed-team.jpg");
   background-position-x: -50px;
 }
 
 .box-picture2 {
-  background-image: url("/img/image1.jpg");
+  background-image: url("../img/image1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .box-picture3 {
-  background-image: url("/img/girl-team.jpg");
+  background-image: url("../img/girl-team.jpg");
   background-size: cover;
   background-position-x: -61px;
 }
